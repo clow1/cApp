@@ -1,15 +1,3 @@
-.navbar {
-    position: relative;
-    margin: 10px;
-    padding-left: 150px;
-    padding-right: 150px;
-    border: 1px solid grey;
-}
-.option{
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-}
-
 .Dropdown {
     position: relative;
   }
