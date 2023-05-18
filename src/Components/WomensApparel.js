@@ -1,10 +1,10 @@
 import React from "react";
 import './Apparel.css'
+
 const WomensApparel = () => (
   <div className='Apparel'>
-    
-    
-    womens
+    <div> one </div>
+    <div> two </div>
   </div>
 );
 

@@ -1,7 +1,11 @@
 .Apparel {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(384px, 1fr));
-    grid-gap: 16px;
+    padding: 5px;
+    border: 1px solid grey;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(100px, 1fr));
+    column-gap: 5%;
+
   }
   
   

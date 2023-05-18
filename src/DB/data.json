@@ -1,0 +1,45 @@
+{
+    "Mens":[
+        {
+            "id": 1,
+            "content": "http://com.dataturks.a96-i23.open.s3.amazonaws.com/2c9fafb063ad2b650163b00a1ead0017/4bb8fd9d-8d52-46c7-aa2a-9c18af10aed6___Data_xxl-top-4437-jolliy-original-imaekasxahykhd3t.jpeg",
+            "annotation":[{"label":["Tops"],"notes":"","points":[{"x":0.02040816326530612,"y":0.2532051282051282},{"x":0.9931972789115646,"y":0.8108974358974359}],
+            "imageWidth":147,"imageHeight":312}],
+            "extras":null
+        },
+        {
+            "id":2,
+            "content": "http://com.dataturks.a96-i23.open.s3.amazonaws.com/2c9fafb063ad2b650163b00a1ead0017/b607a69c-600f-4cc3-8df0-f93a006c5f6f___Data_ycrt-jct-ind-yasmin-creations-xl-original-imaezzzcgwyvt64m.jpeg",
+            "annotation":[{"label":["Jackets"],"notes":"","points":[{"x":0.09243697478991597,"y":0.20512820512820512},{"x":0.957983193277311,"y":0.657051282051282}],
+            "imageWidth":119,"imageHeight":312}],
+            "extras":null
+        },
+        {
+            "id":3,
+            "content": "http://com.dataturks.a96-i23.open.s3.amazonaws.com/2c9fafb063ad2b650163b00a1ead0017/eccdfe00-2e05-4a97-8c3d-1ccb7cbaee7d___Data_xxl-tj5305-black-tinted-original-imaeznwehzpz4uma.jpeg",
+            "annotation":[{"label":["Jackets"],"notes":"","points":[{"x":0.005988023952095809,"y":0.22115384615384615},{"x":0.9940119760479041,"y":0.8621794871794872}],"imageWidth":167,"imageHeight":312}],
+            "extras":null
+        },
+        {
+            "id":4,
+            "content": "http://com.dataturks.a96-i23.open.s3.amazonaws.com/2c9fafb063ad2b650163b00a1ead0017/672728e3-15bd-48e3-b40c-8dfed5c0d210___Data_xs-kotydenimjacket53-kotty-original-imaexcttykfed7k7.jpeg",
+            "annotation":[{"label":["Jackets"],"notes":"","points":[{"x":0.0736196319018405,"y":0.22756410256410256},{"x":0.9877300613496932,"y":0.8685897435897436}],
+            "imageWidth":163,"imageHeight":312}],
+            "extras":null
+        },
+        {
+            "id":5,
+            "content": "http://com.dataturks.a96-i23.open.s3.amazonaws.com/2c9fafb063ad2b650163b00a1ead0017/7ba1b344-34fd-44f6-8371-41cb995aa7bb___Data_xxl-c503-mediumblue-dennis-lingo-original-imaewtwz47fdydgm.jpeg",
+            "annotation":[{"label":["Shirts"],"notes":"","points":[{"x":0.023668639053254437,"y":0.23076923076923078},{"x":0.9940828402366864,"y":0.9230769230769231}],
+            "imageWidth":169,"imageHeight":312}],
+            "extras": "out of stock"
+        },
+        {
+            "id":6,
+            "content": "http://com.dataturks.a96-i23.open.s3.amazonaws.com/2c9fafb063ad2b650163b00a1ead0017/fe0adfbc-ae70-4271-ac14-301d6a0b5d44___Data_xs-as18t027-multicolor-provogue-original-imaf35pmsgh5ggnf.jpeg",
+            "annotation":[{"label":["Tops"],"notes":"","points":[{"x":0.24081632653061225,"y":0.21474358974358973},{"x":0.7673469387755102,"y":0.7211538461538461}],
+            "imageWidth":245,"imageHeight":312}],
+            "extras":null
+        }
+    ]
+}
